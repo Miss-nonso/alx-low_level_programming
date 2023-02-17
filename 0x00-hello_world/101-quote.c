@@ -2,7 +2,7 @@
 
 
 /**
- * main - Point of Entry
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
